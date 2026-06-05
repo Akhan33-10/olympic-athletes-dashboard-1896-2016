@@ -3,6 +3,24 @@
 A comprehensive Power BI dashboard analyzing 120 years of Olympic history, 
 built using PostgreSQL and DAX measures.
 
+
+## 🔗 Live Dashboard
+[View Live Dashboard](YOUR_POWER_BI_LINK_HERE)
+
+---
+
+## 📸 Dashboard Preview
+
+### Page 1 — Overview
+![Overview](Olympic_overview.png)
+
+### Page 2 — Nations & Medals
+![Nations](Olympic_medal_nation.png)
+
+### Page 3 — Sports & Athletes
+![Sports](olympic_sports_age_group.png)
+
+---
 ---
 
 ## 📊 Dashboard Overview
