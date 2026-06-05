@@ -4,8 +4,8 @@ A comprehensive Power BI dashboard analyzing 120 years of Olympic history,
 built using PostgreSQL and DAX measures.
 
 
-## 🔗 Live Dashboard
-[View Live Dashboard](YOUR_POWER_BI_LINK_HERE)
+## 🔗 Dashboard File
+[Download Power BI Dashboard](olympics.pbix)
 
 ---
 
