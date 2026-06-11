@@ -187,3 +187,4 @@ ORDER BY year;
 3. Connect Power BI to PostgreSQL
 4. Open `.pbix` file
 5. Refresh data ✅
+6. 
